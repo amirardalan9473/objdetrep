@@ -33,7 +33,7 @@ Now the last task, Object Segmentation; is defined as:
 
 An example illustrating the differences is shown below:
 
-[![N|Object Recognition](https://lh3.googleusercontent.com/proxy/i7xOOcJI4vIH0R2UIwhroXvTIyfJmuOQltkHDtgU_bWsKjTEjg9nyTCpUGt6V2nIvS-bIQLlZ-r-79VLnVt80YK0obwO76S_g3G05gqaEEgveK40R5kuR6VEgsOq1bcjZ3UgsqAErZb2PGzzvtWi4UQcyA37WSZ3IluU7x8Y6fgVVlWy439ExFLaWA)]()
+[![N|Object Recognition](https://www.i2tutorials.com/wp-content/media/2020/10/Object-Detection-vs-Object-Recognition-vs-Image-Segmentation-6.png)]()
 
 Each one of these tasks has its challenges. Each requires its training and testing dataset even if it's trained on the same pictures. For example in the Object Detection task, the training dataset requires the pictures to have bounding boxes and labels, as opposed to classification where only the label is required to accompany the pictures.
 
