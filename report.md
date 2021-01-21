@@ -162,3 +162,5 @@ A pre-trained Cascade R-CNN model from the library yields the following result o
 
 [![N|Object Recognition](https://github.com/amirardalan9473/objdetrep/blob/main/cowresim.png?raw=true)]()
 
+
+In summary, this was a brief overview of some methods that could be used to assist the CFIA in performing its tasks and delivering results. The use of AI and deep learning can boost efficiency, increase ease and cut costs for the CFIA.
