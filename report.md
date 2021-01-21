@@ -91,6 +91,11 @@ Here is another YOLO variant being used to identify different fruit flies:
 [![N|Object Recognition](https://miro.medium.com/max/700/0*Y8EnRYE8EzHQDCGA.png)]()
 
 
+Currently, the pace at which research is done in this domain is astronomical. 
+Less than two months after the release of YOLOv4, YOLOv5 was released which is capable of object detection at 140 frames per seconds.
+
+[![N|Object Recognition](https://blog.roboflow.com/content/images/2020/06/ezgif.com-video-to-gif--3--1.gif)]()
+
 # EfficientDet: Scalable and Efficient Object Detection
 
 The next model is the *EfficientDet* 
