@@ -158,7 +158,7 @@ The output of this model processing our photo is
 
 [![N|Object Recognition](https://github.com/amirardalan9473/objdetrep/blob/main/demodetr.png?raw=true)]()
 
-#Detectron2
+# Detectron2
 
 Detectron2 is a software system for implementing implements state-of-the-art object detection algorithms. They have a model zoo and features such as panoptic segmentation, Densepose, Cascade R-CNN, rotated bounding boxes, PointRend, DeepLab, etc.
 
