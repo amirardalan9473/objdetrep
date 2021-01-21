@@ -60,6 +60,8 @@ An image illustrating the overall architecture is shown below.
 The backbone of the model can be a typical Neural Net such as DenseNet, ResNet, VGG, or any other flavor of convolutional neural networks for the task of image classification. These networks are typically trained on ImageNet and then fine-tuned on the custom datasets for object detection. Convolutional Neural Networks extract and produce different features at different levels of the network. At the shallow layer, they typically make geometric features such as straight or tilted lines, and at the deeper layers, they make more semantically meaningful features. 
 
 This is shown below
+
+
 [![N|Object Recognition](https://image.slidesharecdn.com/nvidiaces2015presentationdeck-150105190022-conversion-gate02/95/visual-computing-the-road-ahead-nvidia-ceo-jenhsun-huang-at-ces-2015-30-638.jpg?cb=1424436369)]()
 
 However, as you can imagine, for object detection, we might have to predict multiple objects in the same photo, as opposed to predicting a single label. Therefore we must make use of the entire receptive field and features at every level.
