@@ -86,6 +86,11 @@ The output produced by the YOLOv4 algorithm is:
 
 [![N|Object Recognition](https://github.com/amirardalan9473/objdetrep/blob/main/detection1.png?raw=true)]()
 
+Here is another YOLO variant being used to identify different fruit flies:
+
+[![N|Object Recognition](https://miro.medium.com/max/700/0*Y8EnRYE8EzHQDCGA.png)]()
+
+
 # EfficientDet: Scalable and Efficient Object Detection
 
 The next model is the *EfficientDet* 
