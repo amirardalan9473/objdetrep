@@ -106,7 +106,7 @@ Now the third and what I find personally the most interesting method of object d
 
 # DETR: End-to-End Object Detection with Transformers
 
-This is a new method produced by Facebook AI. To give some background, Transformers are a new class of Neural NEtwork architectures originally designed to replace recurrent neural networks. The original application was intended for the Natural Language Processing ***NLP*** tasks. The transformer architecture was developed to capture attention. What do we mean by it?
+This is a new method produced by Facebook AI. To give some background, Transformers are a new class of Neural Network architectures originally designed to replace recurrent neural networks. The original application was intended for the Natural Language Processing ***NLP*** tasks. The transformer architecture was developed to capture attention. What do we mean by it?
 let's consider an example. Take the following sentence.
 > John enjoyed reading his book. Over the weekend with nothing planned and lockdowns in place, **he** decided to finish the **task** at hand.
 
