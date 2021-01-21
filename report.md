@@ -17,7 +17,7 @@ Object recognition is the technique of identifying the object present in images 
 A visual example is illustrated below showing object recognition in two systems. A classical machine learning system and a deep learning system. It is worth noting the deep learning systems almost always beat the classical ones when it comes to computer vision tasks. There was more talk about this in previous posts.
 
 
-[![N|Object Recognition](https://media.geeksforgeeks.org/wp-content/uploads/home/new5-660x290.jpg)](https://media.geeksforgeeks.org/wp-content/uploads/home/new5-660x290.jpg)
+![N|Object Recognition](https://media.geeksforgeeks.org/wp-content/uploads/home/new5-660x290.jpg)
 
 
 Now that we briefly talked about Object Recognition, let's move onto the next task. Object Detection. Object Detection algorithms try to go one step beyond and not only recognize the objects in the photo, but they also localize and identify their position in the image by drawing a bounding box around it.
