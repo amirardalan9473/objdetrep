@@ -112,7 +112,7 @@ Without getting into details, EfficientNets are a class of neural nets where neu
 
 The key contribution of this model is the accuracy and the efficiency of object detection. The result of our cow photos with EfficientDet is shown below.
 
-[![N|Object Recognition](https://github.com/amirardalan9473/objdetrep/blob/main/effdet.jpeg?raw=true)]()
+<img src="https://github.com/amirardalan9473/objdetrep/blob/main/effdet.jpeg?raw=true" alt="Nature" class="responsive" width="50%" height="auto" class="center">
 
 
 Now the third and what I find personally the most interesting method of object detection is **DETR: End-to-End Object Detection with Transformers**
@@ -131,7 +131,7 @@ The attention mechanism was integrated into the RNN, however, Transformers were 
 
 An image of the original transformer architecture is attached below
 
-[![N|Object Recognition](https://miro.medium.com/max/2880/1*BHzGVskWGS_3jEcYYi6miQ.png)]()
+<img src="https://miro.medium.com/max/2880/1*BHzGVskWGS_3jEcYYi6miQ.png" alt="Nature" class="responsive" width="50%" height="auto" class="center">
 
 Ever since there has been a boom in transformers research, and they were mainly used in the NLP tasks. However, they have been recently used in other domains of artificial intelligence such as computer vision.
 
