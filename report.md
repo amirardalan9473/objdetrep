@@ -16,7 +16,7 @@ Object recognition is the technique of identifying the object present in images 
 
 A visual example is illustrated below showing object recognition in two systems. A classical machine learning system and a deep learning system. It is worth noting the deep learning systems almost always beat the classical ones when it comes to computer vision tasks. There was more talk about this in previous posts.
 
-
+<img src="https://github.com/amirardalan9473/objdetrep/blob/main/mlvsdp.jpg?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 ![N|Object Recognition](https://github.com/amirardalan9473/objdetrep/blob/main/mlvsdp.jpg?raw=true | =250x250)
 
 
