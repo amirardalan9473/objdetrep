@@ -26,7 +26,6 @@ Now that we briefly talked about Object Recognition, let's move onto the next ta
 An example illustrating the differences in the output of such a system is shown below
 
 <img src="https://miro.medium.com/max/1600/0*ly6JczJzzpIxQl1S" alt="Nature" class="responsive" width="50%" height="auto" class="center">
-[![N|Object Recognition](https://miro.medium.com/max/1600/0*ly6JczJzzpIxQl1S) ]()
 
 On the left side, the system returns a single label, whereas on the right it returns a picture identifying different objects present in the photo.
 
