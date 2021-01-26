@@ -81,15 +81,17 @@ The Head part, outputs the coordinates of the bounding boxes for the objects in 
 
 Here we have a sample photo from the internet, to demonstrate how these algorithms would fare in a task of interest to the CFIA.
 
-[![N|Object Recognition](https://news.psu.edu/sites/default/files/styles/threshold-992/public/PSU-Dairy-Cows.png?itok=UeR4cXQZ)]()
+<img src="https://news.psu.edu/sites/default/files/styles/threshold-992/public/PSU-Dairy-Cows.png?itok=UeR4cXQZ" alt="Nature" class="responsive" width="50%" height="auto" class="center">
+
 
 The output produced by the YOLOv4 algorithm is:
 
-[![N|Object Recognition](https://github.com/amirardalan9473/objdetrep/blob/main/detection1.png?raw=true)]()
+<img src="https://github.com/amirardalan9473/objdetrep/blob/main/detection1.png?raw=true" alt="Nature" class="responsive" width="50%" height="auto" class="center">
+
 
 Here is another YOLO variant being used to identify different fruit flies:
 
-[![N|Object Recognition](https://miro.medium.com/max/700/0*Y8EnRYE8EzHQDCGA.png)]()
+<img src="(https://miro.medium.com/max/700/0*Y8EnRYE8EzHQDCGA.png" alt="Nature" class="responsive" width="50%" height="auto" class="center">
 
 
 Currently, the pace at which research is done in this domain is astronomical. 
