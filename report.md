@@ -91,7 +91,7 @@ The output produced by the YOLOv4 algorithm is:
 
 Here is another YOLO variant being used to identify different fruit flies:
 
-<img src="(https://miro.medium.com/max/700/0*Y8EnRYE8EzHQDCGA.png" alt="Nature" class="responsive" width="50%" height="auto" class="center">
+<img src="https://miro.medium.com/max/700/0*Y8EnRYE8EzHQDCGA.png" alt="Nature" class="responsive" width="50%" height="auto" class="center">
 
 
 Currently, the pace at which research is done in this domain is astronomical. 
