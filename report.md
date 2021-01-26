@@ -168,8 +168,8 @@ One of the cons of this model is the N hyperparameter, which could be large in o
 
 The output of this model processing our photo is 
 
+<img src="https://github.com/amirardalan9473/objdetrep/blob/main/demodetr.png?raw=true" alt="Nature" class="responsive" width="50%" height="auto" class="center">
 
-[![N|Object Recognition](https://github.com/amirardalan9473/objdetrep/blob/main/demodetr.png?raw=true)]()
 
 # Detectron2
 
@@ -178,7 +178,7 @@ Detectron2 is a software system for implementing implements state-of-the-art obj
 A pre-trained Cascade R-CNN model from the library yields the following result on our cow photo:
 
 
-[![N|Object Recognition](https://github.com/amirardalan9473/objdetrep/blob/main/cowresim.png?raw=true)]()
+<img src="https://github.com/amirardalan9473/objdetrep/blob/main/cowresim.png?raw=true" alt="Nature" class="responsive" width="50%" height="auto" class="center">
 
 
 In summary, this was a brief overview of some methods that could be used to assist the CFIA in performing its tasks and delivering results. The use of AI and deep learning can boost efficiency, increase ease and cut costs for the CFIA.
